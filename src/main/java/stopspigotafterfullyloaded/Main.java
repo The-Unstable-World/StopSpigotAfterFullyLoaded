@@ -1,6 +1,5 @@
 package stopspigotafterfullyloaded;
-import org.bukkit.plugin.java.JavaPlugin;
-public class Main extends JavaPlugin {
+public class Main extends org.bukkit.plugin.java.JavaPlugin {
   @Override
   public void onEnable() {
     getServer().shutdown();
