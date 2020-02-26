@@ -1,2 +1,2 @@
-# StopSpigotAfterFullyLoaded
-Stop the spigot server after the server is fully loaded
+# StopSpigotWhenFullyLoaded
+Stop the spigot server when the server is fully loaded
