@@ -1,4 +1,4 @@
-package stopspigotafterfullyloaded;
+package stopspigotwhenfullyloaded;
 public class Main extends org.bukkit.plugin.java.JavaPlugin implements org.bukkit.event.Listener {
   @Override
   public void onEnable() { getServer().getPluginManager().registerEvents(this, this); }
